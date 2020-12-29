@@ -1,5 +1,8 @@
 # positivenos
-list=[11,-22,55,-6,8]
-for num in list:
-  if num >=0
-   print (num," ")
+
+list1 = [12,-7,5,64,-14] 
+for num in list1: 
+
+    if num >= 0:
+       print(num, end = " ")
+
